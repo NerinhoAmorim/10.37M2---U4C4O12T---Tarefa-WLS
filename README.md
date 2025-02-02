@@ -48,6 +48,8 @@
 git clone https://github.com/NerinhoAmorim/10.37M2---U4C4O12T---Tarefa-WLS.git
 cd 10.37M2---U4C4O12T---Tarefa-WLS
 
+----
+
 🔗 Links Úteis
 📄 Documentação RP2040
 📄 Guia de Uso WS2812
