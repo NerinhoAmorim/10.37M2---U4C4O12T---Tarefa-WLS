@@ -49,7 +49,6 @@ pico_enable_stdio_usb(LedsWs2812 01)
 # Add the standard library to the build
 target_link_libraries(LedsWs2812
         pico_stdlib
-        pico_stdlib
         hardware_pio)
 
 # Add the standard include files to the build
